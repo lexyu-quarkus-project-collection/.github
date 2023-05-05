@@ -1,1 +1,1 @@
-# Quarkus Practice Demo
+# TOC
